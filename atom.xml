@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://zzp.ink</id>
+    <title>Gridea</title>
+    <updated>2022-09-28T06:41:01.507Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://zzp.ink"/>
+    <link rel="self" href="https://zzp.ink/atom.xml"/>
+    <subtitle>温故而知新</subtitle>
+    <logo>https://zzp.ink/images/avatar.png</logo>
+    <icon>https://zzp.ink/favicon.ico</icon>
+    <rights>All rights reserved 2022, Gridea</rights>
+</feed>
